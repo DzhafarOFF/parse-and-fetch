@@ -1,0 +1,12 @@
+{
+  "name": "url-data-collector",
+  "version": "1.0.0",
+  "description": "## Descriprion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./mock/createMock.js && node ./server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
