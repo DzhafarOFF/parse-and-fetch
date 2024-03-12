@@ -56,3 +56,8 @@ Results saved under `result/proccessed.json`
     "fieldBoolean": false
 }
 ```
+
+## TODO:
+
+- Stream implementation
+- Perfomance benchmarks
